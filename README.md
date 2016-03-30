@@ -1,3 +1,2 @@
 # Ruche's Test Repository.
-# I study Ruby and rails.
-TestRepository
+# I study Ruby and Rails.
